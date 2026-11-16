@@ -1,0 +1,6 @@
+{
+  "name": "Forja Studio",
+  "description": "Plataforma inteligente de engenharia web que gera sites e aplicações completas, responsivas e prontas para produção a partir de linguagem natural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
